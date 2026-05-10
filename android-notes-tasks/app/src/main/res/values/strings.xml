@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Note e Task</string>
+    <string name="notes">Note</string>
+    <string name="tasks">Task</string>
+    <string name="note">Nota</string>
+    <string name="new_note">Nuova nota</string>
+    <string name="new_task">Nuovo task</string>
+    <string name="title">Titolo</string>
+    <string name="content">Contenuto</string>
+    <string name="task_name">Nome task</string>
+    <string name="save">Salva</string>
+    <string name="delete">Elimina</string>
+    <string name="add">Aggiungi</string>
+    <string name="cancel">Annulla</string>
+    <string name="search">Cerca</string>
+    <string name="undo">Annulla</string>
+    <string name="clear_completed">Elimina completati</string>
+    <string name="no_notes">Nessuna nota.\nPremi + per aggiungerne una.</string>
+    <string name="no_tasks">Nessun task.\nPremi + per aggiungerne uno.</string>
+    <string name="note_deleted">Nota eliminata</string>
+    <string name="task_deleted">Task eliminato</string>
+</resources>
